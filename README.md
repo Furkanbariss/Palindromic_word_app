@@ -37,7 +37,6 @@ Enter a word:
 furkan
 furkan is not a palindrome.
 
-
 ## 🛠 Requirements
 
 - Java 8 or above
